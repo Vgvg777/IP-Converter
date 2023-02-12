@@ -1,5 +1,6 @@
 # IP-Converter
 * A program that can convert IP addresses inputted by a user between binary and decimal representations from a school project.
+![ScreensotC](./img/ScreenshotC.png)
 
 ## Getting Started
 * These instructions will get you a copy of the project up and running on your local machine.
