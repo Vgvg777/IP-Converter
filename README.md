@@ -11,7 +11,7 @@
 > Clone the repository to your local machine.
 
 ```
-git clone https://github.com/<username>/IP-Converter.git
+git clone https://github.com/<Vgvg777>/IP-Converter.git
 ```
 
 > Navigate to the repository directory.
