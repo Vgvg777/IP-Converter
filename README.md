@@ -40,6 +40,7 @@ gcc IP-Converter.c -o IP-Converter
 * The program will output the converted IP address.
 
 ![ScreensotA](./img/ScreenshotA.png)
+![ScreenshotB](./img/ScreenshotB.png)
 
 # Contributing
 > If you would like to contribute to the development of this program, feel free to submit a pull request.
