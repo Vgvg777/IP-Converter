@@ -43,6 +43,13 @@ for (i = 7; i >= 0; i--) {
 }
 
 int main() {
+    printf("***************************************************************************\n");
+    printf("*                       Created by:                                       *\n");
+    printf("*                                                                         *\n");
+    printf("*                                Tri-P Link                               *\n");
+    printf("*                                                                         *\n");
+    printf("*                                                                         *\n");
+    printf("***************************************************************************\n");
 char choice;
 int a, b, c, d;
 /* Ask user to enter choice */
