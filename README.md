@@ -3,7 +3,7 @@
 We created a program that will take as input an ip to decimal or binary format and will be converted to decimal or binary
 respectively.
 
-![ScreensotA](./img/ScreenshotC.png)
+![ScreensotA](./img/ScreenshotC.PNG)
 
 * With this project we wanted to be more experienced using:
 
@@ -28,16 +28,16 @@ respectively.
 * If the user enters 'b', the program will ask for the octets of an IP address in binary format, validate their range, convert each of the octets from binary to decimal, and then print the IP address in decimal format. 
 * The menu is implemented using an if-else statement, and the conversion between decimal and binary is done using two functions, decimal_to_binary() and binary_to_decimal().
 
-![ScreenshotB](./img/ScreenshotB.png)
+![ScreenshotB](./img/ScreenshotB.PNG)
 
 * The program has two main functions, a)binary to_decimal and b)decimal to_binary.
 a)The binary to_decimal function takes a binary number as an argument and returns its decimal equivalent. This is achieved by converting each digit of the binary number to its corresponding power of 2 and summing these values up. The binary number is first divided by 10 to extract its last digit, which is then multiplied by 2^0, since the last digit is the least significant bit. This process is repeated until the entire binary number has been processed.
 
-![ScreenshotC](./img/ScreenshotC.png)
+![ScreenshotC](./img/ScreenshotC.PNG)
 
 b)The decimal to binary function takes a decimal number as an argument and prints its binary equivalent. This is achieved by repeatedly dividing the decimal number by 2 and storing the remainder, which is the next most significant bit of the binary number. The bits are stored in an array and then printed in reverse order, starting from the most significant bit to the least significant bit.
 
-![ScreenshotD](./img/ScreenshotD.png)
+![ScreenshotD](./img/ScreenshotD.PNG)
 
 * The MAIN function first displays an ASCII art header and then prompts the user to enter either 'a' to convert from decimal to binary or 'b' to convert from binary to decimal. 
 * If the user enters 'a', the program asks for an IP address in decimal format, and the IP address is then converted to its binary equivalent using the decimal_to_binary function. 
