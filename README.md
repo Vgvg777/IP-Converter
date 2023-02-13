@@ -5,23 +5,23 @@ respectively.
 
 ![ScreensotA](./img/ScreenshotC.PNG)
 
-* With this project we wanted to be more experienced using:
+* With this project we wanted to become more experienced using:
 
-1-C programming language syntax and structure
+ 1-C programming language syntax and structure
 
-2-Functions and how to call them
+ 2-Functions and how to call them
 
-3-Data types, such as int and char
+ 3-Data types, such as int and char
 
-4-Scanf and printf functions to input and output data
+ 4-Scanf and printf functions to input and output data
 
-5-Loops, such as while and for loops
+ 5-Loops, such as while and for loops
 
-6-Basic mathematics, specifically powers and remainders
+ 6-Basic mathematics, specifically powers and remainders
 
-7-Arrays and how to store and manipulate data in arrays
+ 7-Arrays and how to store and manipulate data in arrays
 
-8-The basic concept of IP addresses and their binary and decimal representations
+ 8-The basic concept of IP addresses and their binary and decimal representations
 
 * First we see the menu of this C program where the user is prompted to enter a choice of 'a' or 'b'. 
 * If the user enters 'a', the program will ask for an IP address in decimal format, validate its format and range, and then convert it to binary. 
