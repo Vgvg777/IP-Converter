@@ -3,7 +3,7 @@
 We created a program that will take as input an ip to decimal or binary format and will be converted to decimal or binary
 respectively.
 
-![ScreensotA](./img/ScreenshotC.PNG)
+![ScreensotA](./img/ScreenshotA.PNG)
 
 * With this project we wanted to become more experienced using:
 
